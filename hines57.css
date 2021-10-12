@@ -23,7 +23,7 @@ a:visited{color:#777;}
 {
     font-family: Calibri;
     object-position: center top;
-    horizontal-align: middle;
+    text-align: center;
 }
 
 #title
