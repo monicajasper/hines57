@@ -1,3 +1,2 @@
 # hines57
-tribute page for responsive web design course
-edit test
+Gregory Hines tribute page for responsive web design course.
